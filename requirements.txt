@@ -1,0 +1,7 @@
+flask
+flask-sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+getenv
+pymysql
+python-dotenv
